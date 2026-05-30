@@ -3,13 +3,19 @@
 	"id": "handydandy",
 	"version": "${version}",
 	"name": "HandyDandy",
-	"description": "Quality-of-life and fun gameplay features.",
-	"authors": ["neovetta"],
+	"description": "Quality-of-life Fabric mod with custom commands, crafting recipes, item abilities, and passive server features.",
+	"authors": ["Adrian DeVivo"],
 	"license": "MIT",
+	"icon": "assets/handydandy/icon.png",
 	"environment": "*",
 	"entrypoints": {
 		"main": ["com.neovetta.handydandy.HandyDandy"],
 		"client": ["com.neovetta.handydandy.client.HandyDandyClient"]
+	},
+	"contact": {
+		"homepage": "https://github.com/adevivo/handy-dandy",
+		"sources": "https://github.com/adevivo/handy-dandy",
+		"issues": "https://github.com/adevivo/handy-dandy/issues"
 	},
 	"depends": {
 		"fabricloader": ">=0.19.2",
