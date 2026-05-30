@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": ["DbD", "lEl", "DbD"],
+  "key": {
+    "D": "minecraft:diamond",
+    "b": "minecraft:porkchop",
+    "l": "minecraft:cooked_porkchop",
+    "E": "minecraft:egg"
+  },
+  "result": {"id": "minecraft:pig_spawn_egg", "count": 1}
+}

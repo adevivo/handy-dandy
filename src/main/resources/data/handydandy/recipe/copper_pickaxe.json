@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": ["CDC", " I ", " I "],
+  "key": {
+    "C": "minecraft:copper_ingot",
+    "D": "minecraft:diamond",
+    "I": "minecraft:iron_bars"
+  },
+  "result": {
+    "id": "minecraft:golden_pickaxe",
+    "components": {
+      "minecraft:enchantments": {
+        "minecraft:unbreaking": 10,
+        "minecraft:efficiency": 7
+      },
+      "minecraft:custom_name": "\"Copper Pickaxe\"",
+      "minecraft:lore": [
+        "\"Mighty copper pickaxe\"",
+        "\"of the dwarves\""
+      ]
+    }
+  }
+}

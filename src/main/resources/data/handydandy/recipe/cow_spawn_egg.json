@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": ["DbD", "lEl", "DbD"],
+  "key": {
+    "D": "minecraft:diamond",
+    "b": "minecraft:beef",
+    "l": "minecraft:leather",
+    "E": "minecraft:egg"
+  },
+  "result": {"id": "minecraft:cow_spawn_egg", "count": 1}
+}

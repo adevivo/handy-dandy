@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": ["DbD", "lEl", "DbD"],
+  "key": {
+    "D": "minecraft:diamond",
+    "b": "minecraft:spider_eye",
+    "l": "minecraft:string",
+    "E": "minecraft:egg"
+  },
+  "result": {"id": "minecraft:spider_spawn_egg", "count": 1}
+}

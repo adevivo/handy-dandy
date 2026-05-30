@@ -1,0 +1,20 @@
+{
+	"schemaVersion": 1,
+	"id": "handydandy",
+	"version": "${version}",
+	"name": "HandyDandy",
+	"description": "Quality-of-life and fun gameplay features.",
+	"authors": ["neovetta"],
+	"license": "MIT",
+	"environment": "*",
+	"entrypoints": {
+		"main": ["com.neovetta.handydandy.HandyDandy"],
+		"client": ["com.neovetta.handydandy.client.HandyDandyClient"]
+	},
+	"depends": {
+		"fabricloader": ">=0.19.2",
+		"minecraft": "~26.1.2",
+		"java": ">=25",
+		"fabric-api": "*"
+	}
+}

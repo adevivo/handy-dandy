@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": ["lll", " L ", " E "],
+  "key": {
+    "l": "minecraft:lily_pad",
+    "L": "minecraft:leather_boots",
+    "E": "minecraft:emerald"
+  },
+  "result": {
+    "id": "minecraft:leather_boots",
+    "components": {
+      "minecraft:enchantments": {
+        "minecraft:depth_strider": 7,
+        "minecraft:respiration": 3
+      },
+      "minecraft:custom_name": "\"Swim Fins\"",
+      "minecraft:lore": ["\"Mighty duck feet\""]
+    }
+  }
+}

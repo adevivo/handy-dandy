@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "ingredient": "minecraft:diamond_sword",
+  "result": {
+    "id": "minecraft:diamond_sword",
+    "components": {
+      "minecraft:enchantments": {
+        "minecraft:sharpness": 10
+      },
+      "minecraft:custom_name": "\"Ouchy Diamond Sword\"",
+      "minecraft:lore": [
+        "\"Forged by ancient\"",
+        "\"minecraft elves and\"",
+        "\"sharper than the\"",
+        "\"average pointy object\""
+      ]
+    }
+  },
+  "experience": 1.0,
+  "cookingtime": 6000
+}

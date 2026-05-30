@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "ingredient": "minecraft:iron_sword",
+  "result": {
+    "id": "minecraft:iron_sword",
+    "components": {
+      "minecraft:enchantments": {
+        "minecraft:sharpness": 5
+      },
+      "minecraft:custom_name": "\"Ginsu Iron Sword\"",
+      "minecraft:lore": [
+        "\"Forged by ancient\"",
+        "\"minecraft dwarves and\"",
+        "\"sharper than a\"",
+        "\"butter knife\""
+      ]
+    }
+  },
+  "experience": 1.0,
+  "cookingtime": 6000
+}
